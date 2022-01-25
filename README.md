@@ -45,7 +45,7 @@
 #导航：
 <p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/%E7%94%B5%E5%BD%B1">电影🎦</a>(豆瓣前250都有)</p>
 <p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/ISO%E6%96%87%E4%BB%B6">iso系统镜像文件</a></p>
-<p><a href="https://alist.ylyg.ml/gal%E5%92%8C%E5%B0%91%E9%87%8F%E8%B5%84%E6%BA%90/My%20Telegram>Galgame(没时间整理)</a>（解压密码均为：绅士王某人），他的tg：<a href="https://t.me/gal_porter">✈</a></p>
+<p><a href="https://alist.ylyg.ml/gal%E5%92%8C%E5%B0%91%E9%87%8F%E8%B5%84%E6%BA%90/My%20Telegram>Galgame(没时间整理)</a>（解压密码均为：绅士王某人），他的tg<a href="https://t.me/gal_porter">✈</a></p>
 <p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E5%B0%8F%E7%89%87/OneDrive/%E5%B0%8F%E7%89%87">se😍</a></p>
 <p><a href="https://alist.ylyg.ml/%E5%87%A0%E4%B9%8E%E5%85%A8%E6%98%AF%E5%B0%8F%E7%89%87/R18">se😍</a></p>
 <p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/Watch%20061821%20001.mp4">新上传的😍</a></p>
