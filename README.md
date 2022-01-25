@@ -50,8 +50,8 @@
 <p><a href="https://alist.ylyg.ml/%E5%87%A0%E4%B9%8E%E5%85%A8%E6%98%AF%E5%B0%8F%E7%89%87/R18">se😍</a></p>
 <p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/Watch%20061821%20001.mp4">新上传的😍</a></p>
 <b><i>真<i/><b/>学习资料——————————</p>
-<p><a href=""https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/%E4%B9%90%E4%B9%90%E8%AF%BE%E5%A0%82>乐乐课堂高中物理</a>以后会陆续上传oo</p>
-<p><a href="">国家地理（Disney出品，挺不错的）</a></p>
+<p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/%E4%B9%90%E4%B9%90%E8%AF%BE%E5%A0%82">乐乐课堂高中物理</a>以后会陆续上传oo</p>
+<p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86">国家地理（Disney出品，挺不错的）</a></p>
 <p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E5%B0%8F%E7%89%87/OneDrive/%E5%9B%BE%E4%B9%A6">清华和河北师范大学以及各种📕</a></p>
 <p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/%E4%BA%A7%E5%93%81">有关产品的📕</a></p>
 <p><a href="https://alist.ylyg.ml/%E5%9B%BE%E4%B9%A6%E5%92%8C%E9%95%9C%E5%83%8F/%E6%95%99%E8%82%B2">有关教育的📕</a></p>
