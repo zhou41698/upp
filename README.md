@@ -39,7 +39,7 @@
 #特别功能
 1.支持字幕，添加方式如图所示
 <img src="https://raw.githubusercontent.com/zhou41698/upp/main/Snipaste_2022-01-25_14-01-36.png"></img>
-看了之后，是不是学会了？真是有<img src=""https://raw.githubusercontent.com/zhou41698/upp/main/(%40HYNRGW2S%7D_%7D3HND4%609%5B00.jpg></img>就行
+看了之后，是不是学会了？真是有<img src="https://raw.githubusercontent.com/zhou41698/upp/main/(%40HYNRGW2S%7D_%7D3HND4%609%5B00.jpg"></img>就行
 2.用户可上传文件：由于未开代理的缘故，上传速度极慢，就不要想了
 
 #导航：
