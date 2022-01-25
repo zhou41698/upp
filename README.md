@@ -2,39 +2,39 @@
 <p>怎么说呢，不知道本站能办多长时间，<i>just go！<i/></p>
 <p>以下下摘自Xhofe大佬的文档</p>
 ## 支持
-- [x] 多种存储
-- [x] 本地存储
-- [x] [阿里云盘](https://www.aliyundrive.com/)
-- [x] OneDrive / Sharepoint（[国际版](https://www.office.com/), [世纪互联](https://portal.partner.microsoftonline.cn),de,us）
-- [x] [天翼云盘](https://cloud.189.cn)
-- [x] [GoogleDrive](https://drive.google.com/)
-- [x] [123云盘](https://www.123pan.com/)
-- [x] [蓝奏云](https://pc.woozooo.com/)
-- [x] [Alist](https://github.com/Xhofe/alist)
-- [x] FTP
-- [x] [PikPak](https://www.mypikpak.com/)
-- [x] [闪电盘](https://shandianpan.com/)
-- [x] [S3](https://aws.amazon.com/cn/s3/)
-- [x] WebDav
-- [x] Teambition（[中国](https://www.teambition.com/ )，[国际](https://us.teambition.com/ )）
-- [x] [分秒帧](https://www.mediatrack.cn/)
-- [x] [和彩云](https://yun.139.com/) (个人云, 家庭云)
-- [x] 部署方便，开箱即用
-- [x] 文件预览（PDF、markdown、代码、纯文本……）
-- [x] 画廊模式下的图像预览
-- [x] 视频和音频预览（mp4、mp3 等）
-- [x] Office 文档预览（docx、pptx、xlsx、...）
-- [x] `README.md` 预览渲染
-- [x] 文件永久链接复制和直接文件下载
-- [x] 黑暗模式
-- [x] 国际化
-- [x] 受保护的路由（密码保护和身份验证）
-- [x] WebDav（具体见https://alist-doc.nn.ci/docs/webdav ）
-- [x] [Docker 部署](https://hub.docker.com/r/xhofe/alist)
-- [x] Cloudflare workers 中转
-- [x] 文件/文件夹打包下载
-- [x] 支持视频列表播放和字幕(ass,srt,vtt)
-- [x] 网页上传(可以允许访客上传)，删除，新建文件夹，重命名，移动
+<p>[x] 多种存储
+<p>[x] 本地存储
+<p>[x] <a href="https://www.aliyundrive.com/">阿里云盘</a>
+<p>[x] OneDrive / Sharepoint（<a href="https://www.office.com/">国际版</a>, <a href:"https://portal.partner.microsoftonline.cn">世纪互联</a>,de,us）
+<p>[x] </a href="https://cloud.189.cn">天翼云盘</a>
+<p>[x] <a href="https://drive.google.com/">GoogleDrive</a>
+<p>[x] <a href="https://www.123pan.com/">123云盘</a>
+<p>[x] <a href="https://pc.woozooo.com/">蓝奏云</a>
+<p>[x] <a href="https://github.com/Xhofe/alist">Alist</a>
+<p>[x] FTP
+<p>[x] <a href="https://www.mypikpak.com/">PikPak</a>
+<p>[x] <a href="https://shandianpan.com/">闪电盘</a>
+<p>[x] <a href="https://aws.amazon.com/cn/s3/">S3</a>
+<p>[x] WebDav
+<p>[x] Teambition（<a href="https://www.teambition.com/">中国</a>，<a href="https://us.teambition.com/">国际</a>）
+<p>[x] <a href="https://www.mediatrack.cn/">分秒帧</a>
+<p>[x] <a href="https://yun.139.com/">和彩云</a> (个人云, 家庭云)
+<p>[x] 部署方便，开箱即用
+<p>[x] 文件预览（PDF、markdown、代码、纯文本……）
+<p>[x] 画廊模式下的图像预览
+<p>[x] 视频和音频预览（mp4、mp3 等）
+<p>[x] Office 文档预览（docx、pptx、xlsx、...）
+<p>[x] `README.md` 预览渲染
+<p>[x] 文件永久链接复制和直接文件下载
+<p>[x] 黑暗模式
+<p>[x] 国际化
+<p>[x] 受保护的路由（密码保护和身份验证）
+<p>[x] WebDav（具体见https://alist-doc.nn.ci/docs/webdav ）
+<p>[x] <a href="https://hub.docker.com/r/xhofe/alist">Docker 部署</a>
+<p>[x] Cloudflare workers 中转
+<p>[x] 文件/文件夹打包下载
+<p>[x] 支持视频列表播放和字幕(ass,srt,vtt)
+<p>[x] 网页上传(可以允许访客上传)，删除，新建文件夹，重命名，移动
 
 #特别功能
 1.支持字幕，添加方式如图所示
