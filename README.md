@@ -1,7 +1,7 @@
 <h3>本站由<a href="http://heroku.com">Heroku</a>+<a href="http://cloudflare.com">Cloudflare反代</a>+Freenom域名组合而成，代码fork自<a class="commit-author user-mention" title="查看 Xhofe 的所有提交" href="https://github.com/Xhofe/alist/">Xhof</a>大佬</h3>
-
+怎么说呢，不知道本站能办多长时间，<i>just go！<i/>
+一下摘自Xhofe大佬的文档
 ## 支持
-
 - [x] 多种存储
 - [x] 本地存储
 - [x] [阿里云盘](https://www.aliyundrive.com/)
